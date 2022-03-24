@@ -10,10 +10,12 @@
 - 👦 15 years old.
 
 <br>
+
 ---
+
 <br>
 
-<h3>Languages:</h3>
+**Languages**
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30"/>
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30"/>
