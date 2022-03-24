@@ -1,11 +1,13 @@
 <h1>Hi!, I'm Nikodem 👋</h1>
 <h3>About me:</h3>
 
-- 💻 FrontEnd Developer
+- 💻 FrontEnd Developer.
 
-- ✏️ Graphics Designer
+- 📚 I'm going to learn BackEnd.
 
-- 👦 17 years old
+- 🏫 1st class of technical school, IT technician.
+
+- 👦 15 years old.
 
 <br>
 
