@@ -9,6 +9,7 @@
 
 - 👦 15 years old.
 
+---
 <br>
 
 <h3>Languages and Tools:</h3>
