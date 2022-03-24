@@ -1,5 +1,14 @@
-<h1 align="center">Hi!, I'm Nikodem 👋</h1>
-<h3 align="left">Connect with me:</h3>
+<h1>Hi!, I'm Nikodem 👋</h1>
+<h3>About me:</h3>
+
+- 💻 FrontEnd Developer
+
+- ✏️ Graphics Designer
+
+- 👦 17 years old
+
+<br>
+
 <p align="left">
 </p>
 
