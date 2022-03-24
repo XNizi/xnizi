@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1>Hi, I am Matthew 👋</h1>
 
-<!--
-**XNizi/xnizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me**
+
+- 💻 FrontEnd Developer
+
+- ✏️ Graphics Designer
+
+- 👦 17 years old
+
+<br>
+
+---
+
+<br>
+
+**Languages**
+
+ - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30"/>
+ - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30"/>
+ - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30"/>
+ 
+ <br>
