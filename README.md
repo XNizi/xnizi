@@ -1,4 +1,4 @@
-<h1>Hi, I am Matthew 👋</h1>
+<h1>Hi, I am Nizi 👋</h1>
 
 ---
 
@@ -7,10 +7,6 @@
 **About me**
 
 - 💻 FrontEnd Developer
-
-- ✏️ Graphics Designer
-
-- 👦 17 years old
 
 <br>
 
