@@ -3,7 +3,7 @@
 
 - 💻 FrontEnd Developer.
 
-- 📚 I'm going to learn BackEnd.
+- 📚 I'm going to learn React.
 
 - 🏫 1st class of technical school, IT technician.
 
